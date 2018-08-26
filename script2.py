@@ -6,10 +6,10 @@ print(subprocess.call("git status", shell=True))
 
 print(subprocess.call("git diff", shell=True))
 
-print "ok"
+print "okay very gud"
 
 print(subprocess.call("git add .", shell=True))
-print(subprocess.call("git commit", shell=True))
+print(subprocess.call("git commit -m hello ", shell=True))
 
 
 
