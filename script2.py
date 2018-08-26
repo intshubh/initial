@@ -10,6 +10,8 @@ print "okay very gud"
 
 print(subprocess.call("git add .", shell=True))
 print(subprocess.call("git commit -m hello ", shell=True))
+print(subprocess.call("git push origin four ", shell=True))
+
 
 
 
