@@ -578,7 +578,6 @@
         "headless": {
             "gid_number": 1003,
             "members": [
-                "ajj",
                 "atscale",
                 "automata",
                 "blackcat-prod",
