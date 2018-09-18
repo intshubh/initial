@@ -535,8 +535,8 @@
         "admins": {
             "gid_number": 1001,
             "members": [
+                "adef",
                 "agupta10",
-                "ajj",
                 "ashridhar",
                 "gagrawal",
                 "gbagga",
@@ -554,7 +554,6 @@
         "labs": {
             "gid_number": 1002,
             "members": [
-                "ajj",
                 "dnadeau",
                 "eugene",
                 "harinder",
@@ -578,6 +577,7 @@
         "headless": {
             "gid_number": 1003,
             "members": [
+                "adef",
                 "atscale",
                 "automata",
                 "blackcat-prod",
@@ -23579,13 +23579,13 @@
             "uid_number": 4161,
             "mail": "prateek.goel@paytm.com"
         },
-        "ajj": {
+        "adef": {
             "gid_number": 100,
-            "surname": "Jj",
-            "firstname": "Abh",
+            "surname": "Def",
+            "firstname": "Abc",
             "ssh_pubkey": "NONE",
             "uid_number": 4162,
-            "mail": "abh.jj@paytm.com"
+            "mail": "abc.def@paytm.com"
         }
     }
 }
