@@ -535,8 +535,8 @@
         "admins": {
             "gid_number": 1001,
             "members": [
-                "aghi",
                 "agupta10",
+                "amng",
                 "ashridhar",
                 "gagrawal",
                 "gbagga",
@@ -577,7 +577,7 @@
         "headless": {
             "gid_number": 1003,
             "members": [
-                "aghi",
+                "amng",
                 "atscale",
                 "automata",
                 "blackcat-prod",
@@ -23579,13 +23579,13 @@
             "uid_number": 4161,
             "mail": "prateek.goel@paytm.com"
         },
-        "aghi": {
+        "amng": {
             "gid_number": 100,
-            "surname": "Ghi",
+            "surname": "Mng",
             "firstname": "Abc",
             "ssh_pubkey": "NONE",
             "uid_number": 4162,
-            "mail": "abc.ghi@paytm.com"
+            "mail": "abc.mng@paytm.com"
         }
     }
 }
