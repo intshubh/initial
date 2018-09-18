@@ -535,25 +535,25 @@
         "admins": {
             "gid_number": 1001,
             "members": [
+                "agupta10",
                 "ashridhar",
                 "gagrawal",
                 "gbagga",
                 "jgagnon",
+                "kunwar1s",
                 "meyarivan",
                 "mgilani",
                 "nsingh4",
                 "otto",
                 "samfang",
+                "sbhatia2",
                 "siyuan",
-                "kunwar1s",
-                "steven",
-                "agupta10"
+                "steven"
             ]
         },
         "labs": {
             "gid_number": 1002,
             "members": [
-                "adef",
                 "dnadeau",
                 "eugene",
                 "harinder",
@@ -568,6 +568,7 @@
                 "pedler",
                 "rwang",
                 "sagun",
+                "sbhatia2",
                 "sdk",
                 "slong",
                 "steven",
@@ -23578,13 +23579,13 @@
             "uid_number": 4161,
             "mail": "prateek.goel@paytm.com"
         },
-        "adef": {
+        "sbhatia2": {
             "gid_number": 100,
-            "surname": "Def",
-            "firstname": "Abc",
+            "surname": "Bhatia",
+            "firstname": "Shubham",
             "ssh_pubkey": "NONE",
             "uid_number": 4162,
-            "mail": "abc.def@paytm.com"
+            "mail": "shubham.bhatia@paytm.com"
         }
     }
 }
