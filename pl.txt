@@ -536,6 +536,7 @@
             "gid_number": 1001,
             "members": [
                 "agupta10",
+                "ajj",
                 "ashridhar",
                 "gagrawal",
                 "gbagga",
@@ -546,7 +547,6 @@
                 "nsingh4",
                 "otto",
                 "samfang",
-                "sbhatia2",
                 "siyuan",
                 "steven"
             ]
@@ -554,6 +554,7 @@
         "labs": {
             "gid_number": 1002,
             "members": [
+                "ajj",
                 "dnadeau",
                 "eugene",
                 "harinder",
@@ -568,7 +569,6 @@
                 "pedler",
                 "rwang",
                 "sagun",
-                "sbhatia2",
                 "sdk",
                 "slong",
                 "steven",
@@ -23579,13 +23579,13 @@
             "uid_number": 4161,
             "mail": "prateek.goel@paytm.com"
         },
-        "sbhatia2": {
+        "ajj": {
             "gid_number": 100,
-            "surname": "Bhatia",
-            "firstname": "Shubham",
+            "surname": "Jj",
+            "firstname": "Abh",
             "ssh_pubkey": "NONE",
             "uid_number": 4162,
-            "mail": "shubham.bhatia@paytm.com"
+            "mail": "abh.jj@paytm.com"
         }
     }
 }
