@@ -535,19 +535,20 @@
         "admins": {
             "gid_number": 1001,
             "members": [
+                "agupta10",
                 "ashridhar",
                 "gagrawal",
                 "gbagga",
                 "jgagnon",
+                "kunwar1s",
                 "meyarivan",
                 "mgilani",
                 "nsingh4",
                 "otto",
                 "samfang",
+                "sbhatia2",
                 "siyuan",
-                "kunwar1s",
-                "steven",
-                "agupta10"
+                "steven"
             ]
         },
         "labs": {
