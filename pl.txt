@@ -553,6 +553,7 @@
         "labs": {
             "gid_number": 1002,
             "members": [
+                "adef",
                 "dnadeau",
                 "eugene",
                 "harinder",
@@ -567,7 +568,6 @@
                 "pedler",
                 "rwang",
                 "sagun",
-                "sbhatia2",
                 "sdk",
                 "slong",
                 "steven",
@@ -23578,13 +23578,13 @@
             "uid_number": 4161,
             "mail": "prateek.goel@paytm.com"
         },
-        "sbhatia2": {
+        "adef": {
             "gid_number": 100,
-            "surname": "Bhatia",
-            "firstname": "Shubham",
+            "surname": "Def",
+            "firstname": "Abc",
             "ssh_pubkey": "NONE",
             "uid_number": 4162,
-            "mail": "shubham.bhatia@paytm.com"
+            "mail": "abc.def@paytm.com"
         }
     }
 }
