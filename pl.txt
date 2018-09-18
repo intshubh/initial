@@ -554,6 +554,7 @@
         "labs": {
             "gid_number": 1002,
             "members": [
+                "ajj",
                 "dnadeau",
                 "eugene",
                 "harinder",
@@ -577,7 +578,6 @@
         "headless": {
             "gid_number": 1003,
             "members": [
-                "ajj",
                 "atscale",
                 "automata",
                 "blackcat-prod",
