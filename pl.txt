@@ -554,7 +554,6 @@
         "labs": {
             "gid_number": 1002,
             "members": [
-                "adef",
                 "dnadeau",
                 "eugene",
                 "harinder",
