@@ -538,6 +538,7 @@
                 "adef",
                 "aghi",
                 "agupta10",
+                "amno",
                 "ashridhar",
                 "gagrawal",
                 "gbagga",
@@ -555,7 +556,9 @@
         "labs": {
             "gid_number": 1002,
             "members": [
+                "adef",
                 "aghi",
+                "amno",
                 "dnadeau",
                 "eugene",
                 "harinder",
@@ -581,6 +584,7 @@
             "members": [
                 "adef",
                 "aghi",
+                "amno",
                 "atscale",
                 "automata",
                 "blackcat-prod",
@@ -23597,6 +23601,14 @@
             "ssh_pubkey": "NONE",
             "uid_number": 4163,
             "mail": "abc.ghi@paytm.com"
+        },
+        "amno": {
+            "gid_number": 100,
+            "surname": "Mno",
+            "firstname": "Abc",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4164,
+            "mail": "abc.mno@paytm.com"
         }
     }
 }
