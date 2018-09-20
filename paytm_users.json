@@ -5934,6 +5934,7 @@
                 "rprasad1",
                 "rpriyadarshi",
                 "rpriyadarshi1",
+                "rr",
                 "rrani",
                 "rsaini",
                 "rsaini1",
@@ -24899,6 +24900,14 @@
             "ssh_pubkey": "NONE",
             "uid_number": 4302,
             "mail": "kartik.iyer@paytmmall.com"
+        },
+        "rr": {
+            "gid_number": 100,
+            "surname": "R",
+            "firstname": "Rakesh",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4303,
+            "mail": "rakesh1.r@paytmmall.com"
         }
     }
 }
