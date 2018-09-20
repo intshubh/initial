@@ -5656,6 +5656,7 @@
                 "kgaurav5",
                 "kgoel",
                 "khussain",
+                "kiyer",
                 "kjain1",
                 "kjoshi",
                 "kkapil",
@@ -24890,6 +24891,14 @@
             "ssh_pubkey": "NONE",
             "uid_number": 4301,
             "mail": "shruti.goyal@paytm.com"
+        },
+        "kiyer": {
+            "gid_number": 100,
+            "surname": "Iyer",
+            "firstname": "Kartik",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4302,
+            "mail": "kartik.iyer@paytmmall.com"
         }
     }
 }
