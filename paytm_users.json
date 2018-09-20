@@ -3295,6 +3295,7 @@
                 "sgovil",
                 "sgowri",
                 "sgoyal",
+                "sgoyal1",
                 "sgoyal11",
                 "sgoyal2",
                 "sgummadi",
@@ -24881,6 +24882,14 @@
             "ssh_pubkey": "NONE",
             "uid_number": 4300,
             "mail": "radhika.agarwal@paytmmall.com"
+        },
+        "sgoyal1": {
+            "gid_number": 100,
+            "surname": "Goyal",
+            "firstname": "Shruti",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4301,
+            "mail": "shruti.goyal@paytm.com"
         }
     }
 }
