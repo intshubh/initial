@@ -3187,6 +3187,7 @@
                 "rgarg2",
                 "rgattani",
                 "rgaur",
+                "rgaur1",
                 "rgoyal",
                 "rgupta",
                 "rgupta1",
@@ -3215,6 +3216,7 @@
                 "rlakhaiyar",
                 "rlakhaiyar1",
                 "rmahajan",
+                "rmahajan1",
                 "rmaheshwari",
                 "rmalpani",
                 "rmishra2",
@@ -3529,6 +3531,7 @@
                 "vrathi",
                 "vsehgal",
                 "vsehgal1",
+                "vshah",
                 "vshanghvi",
                 "vsharda",
                 "vsharma",
@@ -3771,7 +3774,6 @@
                 "asharma15",
                 "ashridhar",
                 "asingh12",
-                "atinna",
                 "atrivedi",
                 "atrivedi3",
                 "avitiuk",
@@ -4255,6 +4257,7 @@
                 "rkumar13",
                 "rkumar17",
                 "rkureel",
+                "rmahajan1",
                 "rmittal1",
                 "rprasad1",
                 "rsharma5",
@@ -5866,6 +5869,7 @@
                 "ppisipati",
                 "ppisipati2",
                 "pprakash",
+                "pprashant",
                 "ppriyadarshi",
                 "praj",
                 "pranaut",
@@ -5934,6 +5938,7 @@
                 "rkureel",
                 "rlakhaiyar1",
                 "rmahajan",
+                "rmahajan1",
                 "rmaheshwari",
                 "rmittal1",
                 "rpandey",
@@ -5981,6 +5986,7 @@
                 "sali",
                 "salifsani",
                 "satishv",
+                "sazmi",
                 "sbahadur",
                 "sbajaj1",
                 "sbajpai",
@@ -6012,6 +6018,7 @@
                 "sgola",
                 "sgopal",
                 "sgoyal2",
+                "sgullapalli",
                 "sgupta10",
                 "sgupta11",
                 "sgupta12",
@@ -6144,6 +6151,7 @@
                 "syadav3",
                 "sysharma",
                 "szaheers",
+                "tagarwal",
                 "tarora1",
                 "tbhatia",
                 "tgarg",
@@ -20752,6 +20760,7 @@
             "mail": "navin.gupta@paytmmall.com"
         },
         "atinna": {
+            "action": "delete",
             "gid_number": 100,
             "surname": "Tinna",
             "firstname": "Arshdeep",
@@ -24941,6 +24950,46 @@
             "ssh_pubkey": "NONE",
             "uid_number": 4306,
             "mail": "saket.kumar@paytm.com"
+        },
+        "sgullapalli": {
+            "gid_number": 100,
+            "surname": "Gullapalli",
+            "firstname": "Surendra",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4307,
+            "mail": "surendra.gullapalli@paytm.com"
+        },
+        "vshah": {
+            "gid_number": 100,
+            "surname": "Shah",
+            "firstname": "Veer",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4308,
+            "mail": "veer.shah@paytm.com"
+        },
+        "rgaur1": {
+            "gid_number": 100,
+            "surname": "Gaur",
+            "firstname": "Rupali",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4309,
+            "mail": "rupali.gaur@paytmmall.com"
+        },
+        "sazmi": {
+            "gid_number": 100,
+            "surname": "Azmi",
+            "firstname": "Shagufta",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4310,
+            "mail": "shagufta.azmi@paytmmall.com"
+        },
+        "rmahajan1": {
+            "gid_number": 100,
+            "surname": "Mahajan",
+            "firstname": "Rajat1",
+            "ssh_pubkey": "NONE",
+            "uid_number": 4311,
+            "mail": "rajat1.mahajan@paytmmall.com"
         }
     }
 }
